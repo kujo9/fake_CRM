@@ -1,0 +1,65 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://img.freepik.com/free-photo/dark-grunge-texture_1048-4055.jpg?1);
+    font-family: 'Arial';
+}
+
+div{
+    color: white
+}
+
+img{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+h1{
+    color: white;
+    margin-left: 6%;
+    margin-top: 15%;
+}
+
+p{
+    color: white;
+    margin-left: 6%;
+    margin-top: 3%;
+    
+}
+
+pre{
+    color: rgb(187, 184, 184);
+    margin-left: 6%;
+   
+}
+
+
+.collect-info {
+    width: 500px;
+    margin-top: 10%;
+
+}
+
+.second-par{
+    margin-top: 20%;
+}
+
+.take-payments{
+    height: 350px;
+    width: 300px;
+    margin-top: 10%;
+    margin-left: 10%;
+   }
+    
+h3{
+    margin-top: 40%;
+    margin-left: 6%;
+   
+}
+
+nav{
+    margin-left: 40%;
+    color: rgb(255, 255, 255);
+    
+}
